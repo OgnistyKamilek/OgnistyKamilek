@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">About Me🙂:</h3>
+
+###
+
 <p align="left">🎓Student of Computer Science in Environmental Protection<br>⚡Aspiring to frontend and gamedev<br>🎯Currently learning JS and UX design<br>🥷🏻Active in sports</p>
 
 ###
@@ -28,7 +32,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/kamil-iwaniak-6a7b4b304" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
@@ -42,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OgnistyKamilek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OgnistyKamilek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=OgnistyKamilek&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
